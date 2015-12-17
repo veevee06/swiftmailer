@@ -1,7 +1,5 @@
 <?php
 
-echo "RUNNING";
-
 /*
  * This file is part of SwiftMailer.
  * (c) 2004-2009 Chris Corbyn
@@ -28,7 +26,3 @@ require dirname(__FILE__).'/dependency_maps/transport_deps.php';
 
 // Load in global library preferences
 require dirname(__FILE__).'/preferences.php';
-
-
-
-?>
