@@ -26,3 +26,5 @@ require dirname(__FILE__).'/dependency_maps/transport_deps.php';
 
 // Load in global library preferences
 require dirname(__FILE__).'/preferences.php';
+
+?>
